@@ -26,4 +26,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: saurabh123/payment-service:latest
+        tags: dolarsingh/payment-service:latest
